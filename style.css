@@ -1,0 +1,22 @@
+body {
+	background-color: #f9ecf2;
+	font-size: 20px;
+	font-family: 'Tangerine', serif;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: fantasy;
+	color: #602040;
+}
+p {
+	color: #993366;
+}
+ol {
+	font-size: .8em;
+	color: #ac3973;
+}
+a:link {
+	color: #990099;
+}
+a:visited {
+	color: #330033;
+}
